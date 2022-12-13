@@ -12,7 +12,7 @@ More about me:
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Marun5?tab=repositories)
 
-- 📫 You can reach me via email: **mkulczycki@o2.pl** or LinkedIn:
+- 📫 Reach me via email: **mkulczycki@o2.pl** or LinkedIn:
 <a href="https://linkedin.com/in/markul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" /></a>
 
 <h3 align="left">Worked with:</h3>
